@@ -9,8 +9,6 @@ Like me, you can have them in your start menu and manually switch. You could als
 *If you own any other laptop than DELL G16, you can tweak settings to fit your screen parameters.*
 
 ****I do not provide any installer, only a little step-by-step tutorial to set it up yourself.****
- 
-Use the `BLANK_README.md` to get started.
 
 <!-- GETTING STARTED -->
 ## Getting Started
